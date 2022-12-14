@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245994451577",
+    "project_id": "nowo-9048b",
+    "storage_bucket": "nowo-9048b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245994451577:android:e5f718c989825ab2eb5aa8",
+        "android_client_info": {
+          "package_name": "com.tuyibra.notificationwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245994451577-4v4f3b2ctdu8b1igoc134633nshebdqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuyibra.notificationwork",
+            "certificate_hash": "e78cb6ea155ea73cbbb2ef8f726d07c3e5c1a553"
+          }
+        },
+        {
+          "client_id": "245994451577-7t2fu2cmf8sp53lf1dd5i8r6df7i55ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuyibra.notificationwork",
+            "certificate_hash": "de0ece414e1274bcebb3326223a93d469194c0f4"
+          }
+        },
+        {
+          "client_id": "245994451577-htbik0b43otcgq03jmoutnogiobu3feo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvHE8jqTt53DzV3Cx_nBUdDfZHn-JEjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245994451577-htbik0b43otcgq03jmoutnogiobu3feo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
